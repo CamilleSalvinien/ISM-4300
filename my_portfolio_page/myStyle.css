@@ -1,0 +1,102 @@
+body {
+
+}
+#header {
+	background: #FF7F50;
+	margin-top: -20px;
+	width: 1335px;
+	height: 370px;
+	font-family: "Segoe UI", Arial, sans-serif;
+	padding: 10px 0;
+}
+
+#name {
+	margin: 100px;
+	text-align: center;
+	font-size: 76px;
+	line-height: 83.6px;
+	letter-spacing: .05em;
+	margin-block-start: .67em;
+    margin-block-end: .67em;
+    color: #fff;
+    height: 100px;
+    width: 1148px;
+}
+#objective {
+	margin: 100px;
+	text-align: center;
+	font-size: 23px;
+	font-weight: 900;
+	display: block;
+	margin-block-start: .67em;
+    margin-block-end: .67em;
+    color: #ffff;
+    height: 50px;
+    width: 1148px;
+}
+
+#about_internal_first {
+    width: 1148px;
+    color: rgb(97, 97, 97);
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+    display: table;
+	clear: both;
+	height: 105px;
+	padding-left: 100px;
+	margin-top: 33px;
+}
+
+img{
+	border-radius: 50%;
+}
+#text{
+	width: 1148px;
+    color: rgb(97, 97, 97);
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 15px;
+    line-height: 22px;
+    display: table;
+	clear: both;
+	height: 105px;
+	padding-left: 100px;
+}
+
+
+#pers_image {
+	border-radius: 50%;
+}
+#more {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background: #FF7F50;
+	width: 1335px;
+	height: 90px;
+	text-align: center;
+}
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 600px;
+  line-height: 60px;
+  font-weight: bold;
+  padding: 0 40px;
+  background: salmon;
+  border: none;
+  position: center
+}
+button:hover {
+  background: lightsalmon;
+}
+
+
+
